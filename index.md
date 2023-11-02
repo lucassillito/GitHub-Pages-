@@ -11,20 +11,31 @@
 
 
 
-<html> 
-<style>
-table, th, td {border:1px solid black;
-}
-</style>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jobs</title>
+</head>
 <body>
 
-<h2> A basic HTML table</h2>
-<table style="width:100%">
+<table border="1">
     <tr>
-        <th>Comapny</th>
-        <th>Contact</th>
+        <th>Header 1</th>
+        <th>Header 2</th>
+        <th>Header 3</th>
     </tr>
     <tr>
-      <td>Alfred Futterkiste</td>
-      <td>Maria Anders</td>
-      
+        <td>Row 1, Cell 1</td>
+        <td>Row 1, Cell 2</td>
+        <td>Row 1, Cell 3</td>
+    </tr>
+    <tr>
+        <td>Row 2, Cell 1</td>
+        <td>Row 2, Cell 2</td>
+        <td>Row 2, Cell 3</td>
+    </tr>
+</table>
+
+</body>
+</html>
+

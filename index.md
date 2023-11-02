@@ -11,5 +11,3 @@
 <img src="SANY0321-2.JPG" alt="Childhood" width="128" height="128">
 <img src="SANY0321-2.JPG" alt="Childhood" style="width: 128px; heigh:128px;">
 
-<img src="With Brother.JPG" width="128" height="128">
-<img src="With Brother-1.JPG" style="300px; height:300px;">

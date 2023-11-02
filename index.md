@@ -9,7 +9,8 @@
 `this is highlighted code`
 
 
-<img src="SANY0321.JPG">
-<img src="SANY0321-2.JPG" alt="Childhood">
+<img src="SANY0321.JPG"> 
+<img src="SANY0321-2.JPG" alt="Childhood" width="128" heigh="128">
+<img src="SANY0321-2.JPG" alt="Childhood" style="width: 128px; heigh:128px;">
 
 

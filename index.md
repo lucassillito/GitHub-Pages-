@@ -8,7 +8,6 @@
 `this is my at a park in Japan in Koga, Ibaraki`
 
 
-<img src="SANY0321-2.JPG" alt="Childhood" width="128" heigh="128">
+<img src="SANY0321-2.JPG" alt="Childhood" width="128" height="128">
 <img src="SANY0321-2.JPG" alt="Childhood" style="width: 128px; heigh:128px;">
-
 

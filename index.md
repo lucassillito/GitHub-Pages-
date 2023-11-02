@@ -12,7 +12,7 @@ At a park in Koga, Ibaraki
 
 Walking trail with my little brother
 <img src="(<With Brother-1.JPG>)">
-<img src="With Brother.JPG>">
+<img src="With Brother.JPG">
 
 <html>
 <head>

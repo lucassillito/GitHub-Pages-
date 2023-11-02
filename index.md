@@ -11,7 +11,7 @@ at a park in Koga, Ibaraki
 <img src="(SANY0321.JPG)">
 
 <img src="(<With Brother-1.JPG>)">
-<img src="With Brother.JPG>"
+<img src="With Brother.JPG>">
 
 <html>
 <head>

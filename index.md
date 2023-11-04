@@ -43,7 +43,7 @@ Walking trail with my little brother
 </html>
 
 
-<h1>Hobbies<h1>
+<h1>Hobbies</h1>
 
 
 

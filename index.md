@@ -11,7 +11,7 @@ At a park in <a href="https://en.wikipedia.org/wiki/Koga,_Ibaraki">Koga, Ibakara
 <img src="Childhood.JPG"> 
 <img src="(SANY0321.JPG)">
 
-Walking trail with my little brother
+Walking trail with my little brother also in Koga, Ibaraki
 <img src="(<With Brother-1.JPG>)">
 <img src="With Brother.JPG">
 

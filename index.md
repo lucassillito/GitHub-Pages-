@@ -3,7 +3,7 @@
 # **Early Life**
 
 
-<p>I was born in Houston, Texas, where I lived for only a year or two before moving to College Station. I later spent 2 years in Japan when I was four years old, staying there with my grandparents, my mother, and my brother. My mother was pregnant with my little brother at the time, and he was actually born in Japan.<p>
+<p>I was born in Houston, Texas, where I lived for only a year or two before moving to College Station. I later spent 2 years in Japan when I was four years old, staying there with my grandparents, my mother, and my brother. My mother was pregnant with my little brother at the time, and he was actually born in Japan. I have three siblings, one sister and two brothers. As well as a dog who is a mix of miniature poodles and English springer spaniels (mini springer doodle.) <p>
 
 At a park in <a href="https://en.wikipedia.org/wiki/Koga,_Ibaraki">Koga, Ibakaraki</a>
 
@@ -14,6 +14,7 @@ At a park in <a href="https://en.wikipedia.org/wiki/Koga,_Ibaraki">Koga, Ibakara
 Walking trail with my little brother
 <img src="(<With Brother-1.JPG>)">
 <img src="With Brother.JPG">
+
 
 <html>
 <head>

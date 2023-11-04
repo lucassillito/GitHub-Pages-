@@ -43,7 +43,7 @@ Walking trail with my little brother
 </html>
 
 
-**Hobbies**
+# **Hobbies**
 
 
 <p>Growing up, I've always surrounded myself with sports. My favorites were basketball, football, and soccer. During my childhood, I played competitive football and basketball. There were times when I was a part of three different basketball teams simultaneously. I played at a high level in middle school and focused on obtaining my associate's degree in high school, which meant I didn't participate in any teams during my high school years. Now, I'm looking to train for the next year with the aim of possibly walking on to a college basketball team.<p>
